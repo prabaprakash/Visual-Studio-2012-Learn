@@ -1,0 +1,66 @@
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\Metro MvvM\Metro MvvM\bin\Debug\Metro MvvM.exe
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\Metro MvvM\Metro MvvM\bin\Debug\Metro MvvM.pdb
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\Metro MvvM\Metro MvvM\bin\Debug\resources.pri
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\Metro MvvM\Metro MvvM\bin\Debug\AppxManifest.xml
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\Metro MvvM\Metro MvvM\bin\Debug\Metro MvvM.build.appxrecipe
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\Metro MvvM\Metro MvvM\obj\Debug\App.g.i.cs
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\Metro MvvM\Metro MvvM\obj\Debug\App.g.cs
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\Metro MvvM\Metro MvvM\obj\Debug\Common\StandardStyles.g.i.cs
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\Metro MvvM\Metro MvvM\obj\Debug\Common\StandardStyles.g.cs
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\Metro MvvM\Metro MvvM\obj\Debug\Views\MainPage.g.i.cs
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\Metro MvvM\Metro MvvM\obj\Debug\Views\MainPage.g.cs
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\Metro MvvM\Metro MvvM\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\Metro MvvM\Metro MvvM\obj\Debug\App.xaml
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\Metro MvvM\Metro MvvM\obj\Debug\Common\StandardStyles.xaml
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\Metro MvvM\Metro MvvM\obj\Debug\Views\MainPage.xaml
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\Metro MvvM\Metro MvvM\obj\Debug\Metro MvvM.exe
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\Metro MvvM\Metro MvvM\obj\Debug\Metro MvvM.pdb
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\Metro MvvM\Metro MvvM\obj\Debug\priconfig.xml
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\Metro MvvM\Metro MvvM\obj\Debug\layout.resfiles
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\Metro MvvM\Metro MvvM\obj\Debug\resources.resfiles
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\Metro MvvM\Metro MvvM\obj\Debug\pri.resfiles
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\Metro MvvM\Metro MvvM\obj\Debug\LanguageQualifiers.txt
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\Metro MvvM\Metro MvvM\obj\Debug\ProjectArchitectures.txt
+C:\Users\PrabaKarthi\documents\visual studio 2012\Projects\Metro MvvM\Metro MvvM\bin\Debug\PerpetuumSoft.Controls.dll
+C:\Users\PrabaKarthi\documents\visual studio 2012\Projects\Metro MvvM\Metro MvvM\bin\Debug\PerpetuumSoft.WinRT.Framework.dll
+C:\Users\PrabaKarthi\documents\visual studio 2012\Projects\Metro MvvM\Metro MvvM\obj\Debug\Metro MvvM.csproj.GenerateResource.Cache
+C:\Users\PrabaKarthi\documents\visual studio 2012\Projects\Metro MvvM\Metro MvvM\obj\Debug\priconfig.xml.intermediate
+C:\Users\PrabaKarthi\documents\visual studio 2012\Projects\Metro MvvM\Metro MvvM\obj\Debug\layout.resfiles.intermediate
+C:\Users\PrabaKarthi\documents\visual studio 2012\Projects\Metro MvvM\Metro MvvM\obj\Debug\resources.resfiles.intermediate
+C:\Users\PrabaKarthi\documents\visual studio 2012\Projects\Metro MvvM\Metro MvvM\obj\Debug\pri.resfiles.intermediate
+C:\Users\PrabaKarthi\documents\visual studio 2012\Projects\Metro MvvM\Metro MvvM\obj\Debug\BlankPage1.g.i.cs
+C:\Users\PrabaKarthi\documents\visual studio 2012\Projects\Metro MvvM\Metro MvvM\obj\Debug\BlankPage1.g.cs
+C:\Users\PrabaKarthi\documents\visual studio 2012\Projects\Metro MvvM\Metro MvvM\obj\Debug\BlankPage1.xaml
+E:\My Documents\Visual Studio 2012 Learn\Metro MvvM\Metro MvvM\bin\Debug\Metro MvvM.exe
+E:\My Documents\Visual Studio 2012 Learn\Metro MvvM\Metro MvvM\bin\Debug\Metro MvvM.pdb
+E:\My Documents\Visual Studio 2012 Learn\Metro MvvM\Metro MvvM\bin\Debug\resources.pri
+E:\My Documents\Visual Studio 2012 Learn\Metro MvvM\Metro MvvM\bin\Debug\AppxManifest.xml
+E:\My Documents\Visual Studio 2012 Learn\Metro MvvM\Metro MvvM\bin\Debug\Metro MvvM.build.appxrecipe
+E:\My Documents\Visual Studio 2012 Learn\Metro MvvM\Metro MvvM\bin\Debug\PerpetuumSoft.Controls.dll
+E:\My Documents\Visual Studio 2012 Learn\Metro MvvM\Metro MvvM\bin\Debug\PerpetuumSoft.WinRT.Framework.dll
+E:\My Documents\Visual Studio 2012 Learn\Metro MvvM\Metro MvvM\obj\Debug\App.g.i.cs
+E:\My Documents\Visual Studio 2012 Learn\Metro MvvM\Metro MvvM\obj\Debug\App.g.cs
+E:\My Documents\Visual Studio 2012 Learn\Metro MvvM\Metro MvvM\obj\Debug\BlankPage1.g.i.cs
+E:\My Documents\Visual Studio 2012 Learn\Metro MvvM\Metro MvvM\obj\Debug\BlankPage1.g.cs
+E:\My Documents\Visual Studio 2012 Learn\Metro MvvM\Metro MvvM\obj\Debug\Common\StandardStyles.g.i.cs
+E:\My Documents\Visual Studio 2012 Learn\Metro MvvM\Metro MvvM\obj\Debug\Common\StandardStyles.g.cs
+E:\My Documents\Visual Studio 2012 Learn\Metro MvvM\Metro MvvM\obj\Debug\Views\MainPage.g.i.cs
+E:\My Documents\Visual Studio 2012 Learn\Metro MvvM\Metro MvvM\obj\Debug\Views\MainPage.g.cs
+E:\My Documents\Visual Studio 2012 Learn\Metro MvvM\Metro MvvM\obj\Debug\XamlTypeInfo.g.cs
+E:\My Documents\Visual Studio 2012 Learn\Metro MvvM\Metro MvvM\obj\Debug\App.xaml
+E:\My Documents\Visual Studio 2012 Learn\Metro MvvM\Metro MvvM\obj\Debug\BlankPage1.xaml
+E:\My Documents\Visual Studio 2012 Learn\Metro MvvM\Metro MvvM\obj\Debug\Common\StandardStyles.xaml
+E:\My Documents\Visual Studio 2012 Learn\Metro MvvM\Metro MvvM\obj\Debug\Views\MainPage.xaml
+E:\My Documents\Visual Studio 2012 Learn\Metro MvvM\Metro MvvM\obj\Debug\Metro MvvM.exe
+E:\My Documents\Visual Studio 2012 Learn\Metro MvvM\Metro MvvM\obj\Debug\Metro MvvM.pdb
+E:\My Documents\Visual Studio 2012 Learn\Metro MvvM\Metro MvvM\obj\Debug\Metro MvvM.csproj.GenerateResource.Cache
+E:\My Documents\Visual Studio 2012 Learn\Metro MvvM\Metro MvvM\obj\Debug\priconfig.xml.intermediate
+E:\My Documents\Visual Studio 2012 Learn\Metro MvvM\Metro MvvM\obj\Debug\layout.resfiles.intermediate
+E:\My Documents\Visual Studio 2012 Learn\Metro MvvM\Metro MvvM\obj\Debug\resources.resfiles.intermediate
+E:\My Documents\Visual Studio 2012 Learn\Metro MvvM\Metro MvvM\obj\Debug\pri.resfiles.intermediate
+E:\My Documents\Visual Studio 2012 Learn\Metro MvvM\Metro MvvM\obj\Debug\priconfig.xml
+E:\My Documents\Visual Studio 2012 Learn\Metro MvvM\Metro MvvM\obj\Debug\layout.resfiles
+E:\My Documents\Visual Studio 2012 Learn\Metro MvvM\Metro MvvM\obj\Debug\resources.resfiles
+E:\My Documents\Visual Studio 2012 Learn\Metro MvvM\Metro MvvM\obj\Debug\pri.resfiles
+E:\My Documents\Visual Studio 2012 Learn\Metro MvvM\Metro MvvM\obj\Debug\LanguageQualifiers.txt
+E:\My Documents\Visual Studio 2012 Learn\Metro MvvM\Metro MvvM\obj\Debug\ProjectArchitectures.txt

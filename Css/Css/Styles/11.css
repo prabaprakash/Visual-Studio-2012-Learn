@@ -1,0 +1,17 @@
+﻿.p1{
+    font-style: italic;
+    font-size: 20px;
+    color: burlywood;
+    background: brown;word-spacing: 2pt;letter-spacing: 2pt;
+    padding: 3pt;
+}
+
+.p2 {
+
+    font-style: normal;
+    font-size: 30px;
+    padding-bottom: 2pt;
+    padding-left: 2pt;
+    padding-right: 2pt;
+    padding-top: 2pt
+}

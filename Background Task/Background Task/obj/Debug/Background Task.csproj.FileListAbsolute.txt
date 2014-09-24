@@ -1,0 +1,31 @@
+c:\users\prabakarthi\documents\visual studio 2012\Projects\Background Task\Background Task\bin\Debug\Background Task.exe
+c:\users\prabakarthi\documents\visual studio 2012\Projects\Background Task\Background Task\bin\Debug\Background Task.pdb
+c:\users\prabakarthi\documents\visual studio 2012\Projects\Background Task\Background Task\bin\Debug\resources.pri
+c:\users\prabakarthi\documents\visual studio 2012\Projects\Background Task\Background Task\bin\Debug\AppxManifest.xml
+c:\users\prabakarthi\documents\visual studio 2012\Projects\Background Task\Background Task\bin\Debug\Background Task.build.appxrecipe
+c:\users\prabakarthi\documents\visual studio 2012\Projects\Background Task\Background Task\obj\Debug\App.g.i.cs
+c:\users\prabakarthi\documents\visual studio 2012\Projects\Background Task\Background Task\obj\Debug\App.g.cs
+c:\users\prabakarthi\documents\visual studio 2012\Projects\Background Task\Background Task\obj\Debug\Common\StandardStyles.g.i.cs
+c:\users\prabakarthi\documents\visual studio 2012\Projects\Background Task\Background Task\obj\Debug\Common\StandardStyles.g.cs
+c:\users\prabakarthi\documents\visual studio 2012\Projects\Background Task\Background Task\obj\Debug\MainPage.g.i.cs
+c:\users\prabakarthi\documents\visual studio 2012\Projects\Background Task\Background Task\obj\Debug\MainPage.g.cs
+c:\users\prabakarthi\documents\visual studio 2012\Projects\Background Task\Background Task\obj\Debug\XamlTypeInfo.g.cs
+c:\users\prabakarthi\documents\visual studio 2012\Projects\Background Task\Background Task\obj\Debug\App.xaml
+c:\users\prabakarthi\documents\visual studio 2012\Projects\Background Task\Background Task\obj\Debug\Common\StandardStyles.xaml
+c:\users\prabakarthi\documents\visual studio 2012\Projects\Background Task\Background Task\obj\Debug\MainPage.xaml
+c:\users\prabakarthi\documents\visual studio 2012\Projects\Background Task\Background Task\obj\Debug\Background Task.exe
+c:\users\prabakarthi\documents\visual studio 2012\Projects\Background Task\Background Task\obj\Debug\Background Task.pdb
+c:\users\prabakarthi\documents\visual studio 2012\Projects\Background Task\Background Task\obj\Debug\priconfig.xml.intermediate
+c:\users\prabakarthi\documents\visual studio 2012\Projects\Background Task\Background Task\obj\Debug\layout.resfiles.intermediate
+c:\users\prabakarthi\documents\visual studio 2012\Projects\Background Task\Background Task\obj\Debug\resources.resfiles.intermediate
+c:\users\prabakarthi\documents\visual studio 2012\Projects\Background Task\Background Task\obj\Debug\pri.resfiles.intermediate
+c:\users\prabakarthi\documents\visual studio 2012\Projects\Background Task\Background Task\obj\Debug\priconfig.xml
+c:\users\prabakarthi\documents\visual studio 2012\Projects\Background Task\Background Task\obj\Debug\layout.resfiles
+c:\users\prabakarthi\documents\visual studio 2012\Projects\Background Task\Background Task\obj\Debug\resources.resfiles
+c:\users\prabakarthi\documents\visual studio 2012\Projects\Background Task\Background Task\obj\Debug\pri.resfiles
+c:\users\prabakarthi\documents\visual studio 2012\Projects\Background Task\Background Task\obj\Debug\LanguageQualifiers.txt
+c:\users\prabakarthi\documents\visual studio 2012\Projects\Background Task\Background Task\obj\Debug\ProjectArchitectures.txt
+c:\users\prabakarthi\documents\visual studio 2012\Projects\Background Task\Background Task\obj\Debug\Background Task.csprojResolveAssemblyReference.cache
+c:\users\prabakarthi\documents\visual studio 2012\Projects\Background Task\Background Task\bin\Debug\Task.winmd
+c:\users\prabakarthi\documents\visual studio 2012\Projects\Background Task\Background Task\bin\Debug\Task.pdb
+c:\users\prabakarthi\documents\visual studio 2012\Projects\Background Task\Background Task\bin\Debug\Task.pri

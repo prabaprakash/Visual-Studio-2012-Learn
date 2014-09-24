@@ -1,0 +1,6 @@
+﻿a:link{color: black}
+a:visited{color: wheat}
+a:active{color:blue}
+a:hover{color: yellow}
+a:checked{color: blueviolet}
+table{ table-layout: auto;border-spacing: 2px;}

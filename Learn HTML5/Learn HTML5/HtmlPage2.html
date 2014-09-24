@@ -1,0 +1,29 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <script type="text/javascript">
+        var star = {};
+        star["Polaris"] = new Object;
+        star["Mizar"] = new Object;
+        star["Aldebaran"] = new Object;
+        star["Rigel"] = new Object;
+        star["Polaris"].constellation = "Ursa Minor";
+        star["Mizar"].constellation = "Ursa Major";
+        star["Aldebaran"].constellation = "Taurus";
+        star["Rigel"].constellation = "Orion";
+    </script>
+</head>
+<body>
+    <p id="datas"></p>
+    <script type="text/javascript">
+        for (starname in star) {
+            var para = document.createElement('p');
+           para.appendChild(document.createTextNode(star[starname].constellation));
+            document.getElementsByTagName("body")[0].appendChild(para);
+
+
+        }
+    </script>
+</body>
+</html>

@@ -1,0 +1,63 @@
+c:\users\prabakarthi\documents\visual studio 2012\Projects\Serialization\Serialization\bin\Debug\Serialization.exe
+c:\users\prabakarthi\documents\visual studio 2012\Projects\Serialization\Serialization\bin\Debug\Serialization.pdb
+c:\users\prabakarthi\documents\visual studio 2012\Projects\Serialization\Serialization\bin\Debug\resources.pri
+c:\users\prabakarthi\documents\visual studio 2012\Projects\Serialization\Serialization\bin\Debug\AppxManifest.xml
+c:\users\prabakarthi\documents\visual studio 2012\Projects\Serialization\Serialization\bin\Debug\Serialization.build.appxrecipe
+c:\users\prabakarthi\documents\visual studio 2012\Projects\Serialization\Serialization\obj\Debug\App.g.i.cs
+c:\users\prabakarthi\documents\visual studio 2012\Projects\Serialization\Serialization\obj\Debug\App.g.cs
+c:\users\prabakarthi\documents\visual studio 2012\Projects\Serialization\Serialization\obj\Debug\Common\StandardStyles.g.i.cs
+c:\users\prabakarthi\documents\visual studio 2012\Projects\Serialization\Serialization\obj\Debug\Common\StandardStyles.g.cs
+c:\users\prabakarthi\documents\visual studio 2012\Projects\Serialization\Serialization\obj\Debug\MainPage.g.i.cs
+c:\users\prabakarthi\documents\visual studio 2012\Projects\Serialization\Serialization\obj\Debug\MainPage.g.cs
+c:\users\prabakarthi\documents\visual studio 2012\Projects\Serialization\Serialization\obj\Debug\XamlTypeInfo.g.cs
+c:\users\prabakarthi\documents\visual studio 2012\Projects\Serialization\Serialization\obj\Debug\App.xaml
+c:\users\prabakarthi\documents\visual studio 2012\Projects\Serialization\Serialization\obj\Debug\Common\StandardStyles.xaml
+c:\users\prabakarthi\documents\visual studio 2012\Projects\Serialization\Serialization\obj\Debug\MainPage.xaml
+c:\users\prabakarthi\documents\visual studio 2012\Projects\Serialization\Serialization\obj\Debug\Serialization.exe
+c:\users\prabakarthi\documents\visual studio 2012\Projects\Serialization\Serialization\obj\Debug\Serialization.pdb
+c:\users\prabakarthi\documents\visual studio 2012\Projects\Serialization\Serialization\obj\Debug\priconfig.xml
+c:\users\prabakarthi\documents\visual studio 2012\Projects\Serialization\Serialization\obj\Debug\layout.resfiles
+c:\users\prabakarthi\documents\visual studio 2012\Projects\Serialization\Serialization\obj\Debug\resources.resfiles
+c:\users\prabakarthi\documents\visual studio 2012\Projects\Serialization\Serialization\obj\Debug\pri.resfiles
+c:\users\prabakarthi\documents\visual studio 2012\Projects\Serialization\Serialization\obj\Debug\LanguageQualifiers.txt
+c:\users\prabakarthi\documents\visual studio 2012\Projects\Serialization\Serialization\obj\Debug\ProjectArchitectures.txt
+c:\users\prabakarthi\documents\visual studio 2012\Projects\Serialization\Serialization\bin\Debug\Newtonsoft.Json.dll
+c:\users\prabakarthi\documents\visual studio 2012\Projects\Serialization\Serialization\bin\Debug\Newtonsoft.Json.pdb
+c:\users\prabakarthi\documents\visual studio 2012\Projects\Serialization\Serialization\bin\Debug\Newtonsoft.Json.xml
+c:\users\prabakarthi\documents\visual studio 2012\Projects\Serialization\Serialization\obj\Debug\Serialization.csprojResolveAssemblyReference.cache
+c:\users\prabakarthi\documents\visual studio 2012\Projects\Serialization\Serialization\obj\Debug\Serialization.csproj.GenerateResource.Cache
+c:\users\prabakarthi\documents\visual studio 2012\Projects\Serialization\Serialization\obj\Debug\priconfig.xml.intermediate
+c:\users\prabakarthi\documents\visual studio 2012\Projects\Serialization\Serialization\obj\Debug\layout.resfiles.intermediate
+c:\users\prabakarthi\documents\visual studio 2012\Projects\Serialization\Serialization\obj\Debug\resources.resfiles.intermediate
+c:\users\prabakarthi\documents\visual studio 2012\Projects\Serialization\Serialization\obj\Debug\pri.resfiles.intermediate
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012 Learn\Serialization\Serialization\bin\Debug\Serialization.exe
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012 Learn\Serialization\Serialization\bin\Debug\Serialization.pdb
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012 Learn\Serialization\Serialization\bin\Debug\resources.pri
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012 Learn\Serialization\Serialization\bin\Debug\AppxManifest.xml
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012 Learn\Serialization\Serialization\bin\Debug\Serialization.build.appxrecipe
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012 Learn\Serialization\Serialization\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012 Learn\Serialization\Serialization\bin\Debug\Newtonsoft.Json.xml
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012 Learn\Serialization\Serialization\obj\Debug\Serialization.csprojResolveAssemblyReference.cache
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012 Learn\Serialization\Serialization\obj\Debug\App.g.i.cs
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012 Learn\Serialization\Serialization\obj\Debug\App.g.cs
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012 Learn\Serialization\Serialization\obj\Debug\Common\StandardStyles.g.i.cs
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012 Learn\Serialization\Serialization\obj\Debug\Common\StandardStyles.g.cs
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012 Learn\Serialization\Serialization\obj\Debug\MainPage.g.i.cs
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012 Learn\Serialization\Serialization\obj\Debug\MainPage.g.cs
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012 Learn\Serialization\Serialization\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012 Learn\Serialization\Serialization\obj\Debug\App.xaml
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012 Learn\Serialization\Serialization\obj\Debug\Common\StandardStyles.xaml
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012 Learn\Serialization\Serialization\obj\Debug\MainPage.xaml
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012 Learn\Serialization\Serialization\obj\Debug\Serialization.exe
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012 Learn\Serialization\Serialization\obj\Debug\Serialization.pdb
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012 Learn\Serialization\Serialization\obj\Debug\Serialization.csproj.GenerateResource.Cache
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012 Learn\Serialization\Serialization\obj\Debug\priconfig.xml.intermediate
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012 Learn\Serialization\Serialization\obj\Debug\layout.resfiles.intermediate
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012 Learn\Serialization\Serialization\obj\Debug\resources.resfiles.intermediate
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012 Learn\Serialization\Serialization\obj\Debug\pri.resfiles.intermediate
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012 Learn\Serialization\Serialization\obj\Debug\priconfig.xml
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012 Learn\Serialization\Serialization\obj\Debug\layout.resfiles
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012 Learn\Serialization\Serialization\obj\Debug\resources.resfiles
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012 Learn\Serialization\Serialization\obj\Debug\pri.resfiles
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012 Learn\Serialization\Serialization\obj\Debug\LanguageQualifiers.txt
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012 Learn\Serialization\Serialization\obj\Debug\ProjectArchitectures.txt

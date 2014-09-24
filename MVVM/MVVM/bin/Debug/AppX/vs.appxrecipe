@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>OMSHAKTHI</Machine>
+    <WindowsUser>PrabaKarthi</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>E78C70B732AA1E4D064667194DD48C6166798F7333D09C2E68AA7251084EE9B7</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>ce55d26f-2bfe-4c89-bf02-71d5ae068198_1.0.0.0_neutral__357g7sqkmfbsp</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>ce55d26f-2bfe-4c89-bf02-71d5ae068198_357g7sqkmfbsp!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>ce55d26f-2bfe-4c89-bf02-71d5ae068198</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=PrabaKarthi</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\PrabaKarthi\documents\visual studio 2012\Projects\MVVM\MVVM\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-06-13T16:40:36.279</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\PrabaKarthi\documents\visual studio 2012\Projects\MVVM\MVVM\bin\Debug\MVVM.exe">
+      <PackagePath>MVVM.exe</PackagePath>
+      <Modified>2013-06-13T17:33:36.742</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PrabaKarthi\documents\visual studio 2012\Projects\MVVM\MVVM\bin\Debug\MVVM.pdb">
+      <PackagePath>MVVM.pdb</PackagePath>
+      <Modified>2013-06-13T17:33:36.711</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PrabaKarthi\documents\visual studio 2012\Projects\MVVM\MVVM\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T15:12:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PrabaKarthi\documents\visual studio 2012\Projects\MVVM\MVVM\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T15:12:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PrabaKarthi\documents\visual studio 2012\Projects\MVVM\MVVM\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T15:12:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PrabaKarthi\documents\visual studio 2012\Projects\MVVM\MVVM\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T15:12:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PrabaKarthi\documents\visual studio 2012\Projects\MVVM\MVVM\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2013-06-12T13:06:48.581</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PrabaKarthi\documents\visual studio 2012\Projects\MVVM\MVVM\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2012-06-26T10:49:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PrabaKarthi\documents\visual studio 2012\Projects\MVVM\MVVM\bin\Debug\View\MainPage.xaml">
+      <PackagePath>View\MainPage.xaml</PackagePath>
+      <Modified>2013-06-13T17:07:02.548</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PrabaKarthi\documents\visual studio 2012\Projects\MVVM\MVVM\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2013-06-12T13:07:46.116</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

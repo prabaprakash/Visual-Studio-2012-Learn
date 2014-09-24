@@ -1,0 +1,35 @@
+﻿<Page x:Class="Metro_MvvM.BlankPage1"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+      xmlns:loc="using:Metro_MvvM.ViewModels"
+      xmlns:local="using:Metro_MvvM"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+      Width="450"
+      Height="768"
+      mc:Ignorable="d">
+    <Page.Resources>
+        <loc:CustomerViewModel x:Name="cvm" />
+    </Page.Resources>
+    <Grid Background="GreenYellow" DataContext="{StaticResource cvm}">
+        <TextBox Margin="42,60,125,657"
+                 Foreground="Black"
+                 Text="{Binding Customer.Name,
+                                Mode=TwoWay}" />
+        <ScrollViewer  HorizontalScrollBarVisibility="Auto" VerticalScrollBarVisibility="Auto" Margin="0,0,368,708">
+        <StackPanel AreScrollSnapPointsRegular="True" > <Button></Button>
+            <Button></Button>
+            <Button></Button>
+            <Button></Button>
+            <Button></Button>
+            <Button></Button>
+            <Button></Button>
+            </StackPanel>
+        </ScrollViewer>
+        <Button x:ConnectionId='1' Width="96"
+                Margin="61,263,0,421"
+                Style="{StaticResource Folder-Add-01AppBarButtonStyle}"
+                Command="{Binding UpdateCommand1}"                      />
+    </Grid>
+</Page>
+

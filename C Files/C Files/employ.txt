@@ -1,0 +1,4 @@
+cse101   samboban  11mse1133 3500 24 
+cse101   mugesh  11mse1108 3400 28     
+cse101   prabakaran  11mse1089 3200 29     
+cse101   praveen 11bca1108 4500 30               

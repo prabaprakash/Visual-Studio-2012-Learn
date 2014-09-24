@@ -1,0 +1,10 @@
+﻿<Window x:Class="Data_Binding.Design"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Design" Height="300" Width="300">
+    <Grid Margin="0,0,0,225">
+        <TextBlock Margin="0,0,0,22"/>
+        <TextBlock Margin="0,22,137,0" ></TextBlock>
+        <TextBlock Margin="155,22,0,0" ></TextBlock>
+    </Grid>
+</Window>

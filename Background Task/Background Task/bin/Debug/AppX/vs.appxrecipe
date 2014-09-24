@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>OMSHAKTHI</Machine>
+    <WindowsUser>PrabaKarthi</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>BD3511CACDBEFB8DDF8A2DB58BABDD5E8F9287BF4D2D1FB0DD6628E13098A60F</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>8f0774e3-ee17-48f2-af7e-19397c64209a_1.0.0.0_neutral__357g7sqkmfbsp</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>8f0774e3-ee17-48f2-af7e-19397c64209a_357g7sqkmfbsp!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>8f0774e3-ee17-48f2-af7e-19397c64209a</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=PrabaKarthi</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\Background Task\Background Task\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-12T17:16:12.060</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\Background Task\Background Task\bin\Debug\Background Task.exe">
+      <PackagePath>Background Task.exe</PackagePath>
+      <Modified>2013-07-12T17:21:50.300</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\Background Task\Background Task\bin\Debug\Background Task.pdb">
+      <PackagePath>Background Task.pdb</PackagePath>
+      <Modified>2013-07-12T17:21:50.273</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\Background Task\Task\bin\Debug\Task.pdb">
+      <PackagePath>Task.pdb</PackagePath>
+      <Modified>2013-07-12T17:16:10.903</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\Background Task\Task\bin\Debug\Task.winmd">
+      <PackagePath>Task.winmd</PackagePath>
+      <Modified>2013-07-12T17:16:10.923</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\Background Task\Background Task\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T15:12:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\Background Task\Background Task\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T15:12:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\Background Task\Background Task\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T15:12:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\Background Task\Background Task\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T15:12:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\Background Task\Background Task\BadgeLogo.png">
+      <PackagePath>BadgeLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-10T18:15:48.144</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\Background Task\Background Task\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2013-07-10T17:06:29.443</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\Background Task\Background Task\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2012-06-26T10:49:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\Background Task\Background Task\bin\Debug\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+      <Modified>2013-07-12T17:03:09.048</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\Background Task\Background Task\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2013-07-12T16:56:47.873</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,2 @@
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\Background Task\Background Task\Background Task.csproj;neutral
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\Background Task\Task\Task.csproj;neutral

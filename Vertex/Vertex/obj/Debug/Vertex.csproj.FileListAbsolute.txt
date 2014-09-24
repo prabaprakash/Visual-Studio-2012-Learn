@@ -1,0 +1,15 @@
+c:\users\prabakarthi\documents\visual studio 2012\Projects\Vertex\Vertex\bin\Debug\Vertex.exe.config
+c:\users\prabakarthi\documents\visual studio 2012\Projects\Vertex\Vertex\bin\Debug\Vertex.exe
+c:\users\prabakarthi\documents\visual studio 2012\Projects\Vertex\Vertex\bin\Debug\Vertex.pdb
+c:\users\prabakarthi\documents\visual studio 2012\Projects\Vertex\Vertex\obj\Debug\Vertex.csprojResolveAssemblyReference.cache
+c:\users\prabakarthi\documents\visual studio 2012\Projects\Vertex\Vertex\obj\Debug\MainWindow.baml
+c:\users\prabakarthi\documents\visual studio 2012\Projects\Vertex\Vertex\obj\Debug\MainWindow.g.cs
+c:\users\prabakarthi\documents\visual studio 2012\Projects\Vertex\Vertex\obj\Debug\App.g.cs
+c:\users\prabakarthi\documents\visual studio 2012\Projects\Vertex\Vertex\obj\Debug\Vertex_MarkupCompile.cache
+c:\users\prabakarthi\documents\visual studio 2012\Projects\Vertex\Vertex\obj\Debug\Vertex.g.resources
+c:\users\prabakarthi\documents\visual studio 2012\Projects\Vertex\Vertex\obj\Debug\Vertex.Properties.Resources.resources
+c:\users\prabakarthi\documents\visual studio 2012\Projects\Vertex\Vertex\obj\Debug\Vertex.csproj.GenerateResource.Cache
+c:\users\prabakarthi\documents\visual studio 2012\Projects\Vertex\Vertex\obj\Debug\Vertex.exe
+c:\users\prabakarthi\documents\visual studio 2012\Projects\Vertex\Vertex\obj\Debug\Vertex.pdb
+C:\Users\PrabaKarthi\documents\visual studio 2012\Projects\Vertex\Vertex\obj\Debug\BlurEffects.baml
+C:\Users\PrabaKarthi\documents\visual studio 2012\Projects\Vertex\Vertex\obj\Debug\BlurEffects.g.cs

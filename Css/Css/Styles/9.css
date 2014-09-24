@@ -1,0 +1,8 @@
+﻿#p1 {
+    border-right-style: dotted;
+    border-left-style: dotted;
+    border-bottom-style: ridge;
+    border-top-style: ridge;
+    border-width: 2pt;
+    font-size: 20px;
+}

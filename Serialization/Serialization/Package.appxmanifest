@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Package xmlns="http://schemas.microsoft.com/appx/2010/manifest">
+  <Identity Name="4f26b8ec-db9a-4f62-99cf-e2e4b2ad6197" Publisher="CN=PrabaKarthi" Version="1.0.0.0" />
+  <Properties>
+    <DisplayName>Serialization</DisplayName>
+    <PublisherDisplayName>PrabaKarthi</PublisherDisplayName>
+    <Logo>Assets\StoreLogo.png</Logo>
+  </Properties>
+  <Prerequisites>
+    <OSMinVersion>6.2.1</OSMinVersion>
+    <OSMaxVersionTested>6.2.1</OSMaxVersionTested>
+  </Prerequisites>
+  <Resources>
+    <Resource Language="x-generate" />
+  </Resources>
+  <Applications>
+    <Application Id="App" Executable="$targetnametoken$.exe" EntryPoint="Serialization.App">
+      <VisualElements DisplayName="Serialization" Logo="Assets\Logo.png" SmallLogo="Assets\SmallLogo.png" Description="Serialization" ForegroundText="light" BackgroundColor="#464646">
+        <DefaultTile ShowName="allLogos" />
+        <SplashScreen Image="Assets\SplashScreen.png" />
+      </VisualElements>
+    </Application>
+  </Applications>
+  <Capabilities>
+    <Capability Name="musicLibrary" />
+  </Capabilities>
+</Package>

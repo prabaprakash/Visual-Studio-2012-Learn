@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>OMSHAKTHI</Machine>
+    <WindowsUser>PrabaKarthi</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>907B55BC7C660CF9C98CE1DBD2242CC99D7F9C539E1881979EA68EDFAE4A5260</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>c4d4641f-6cae-4d5e-b318-7f2ea4568db3_1.0.0.0_neutral__357g7sqkmfbsp</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>c4d4641f-6cae-4d5e-b318-7f2ea4568db3_357g7sqkmfbsp!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>c4d4641f-6cae-4d5e-b318-7f2ea4568db3</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=PrabaKarthi</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="E:\My Documents\Visual Studio 2012 Learn\Metro MvvM\Metro MvvM\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-05T18:54:14.000</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="E:\My Documents\Visual Studio 2012 Learn\Metro MvvM\Metro MvvM\bin\Debug\Metro MvvM.exe">
+      <PackagePath>Metro MvvM.exe</PackagePath>
+      <Modified>2013-08-30T08:15:49.853</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\My Documents\Visual Studio 2012 Learn\Metro MvvM\Metro MvvM\bin\Debug\Metro MvvM.pdb">
+      <PackagePath>Metro MvvM.pdb</PackagePath>
+      <Modified>2013-08-30T08:15:49.809</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\PerpetuumSoft.Controls\2.0\References\CommonConfiguration\neutral\PerpetuumSoft.Controls.dll">
+      <PackagePath>PerpetuumSoft.Controls.dll</PackagePath>
+      <Modified>2013-07-03T05:44:57.360</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\PerpetuumSoft.Controls\2.0\References\CommonConfiguration\neutral\PerpetuumSoft.WinRT.Framework.dll">
+      <PackagePath>PerpetuumSoft.WinRT.Framework.dll</PackagePath>
+      <Modified>2013-07-03T05:44:57.366</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\PerpetuumSoft.Controls\2.0\Redist\CommonConfiguration\neutral\Themes\Generic.xaml">
+      <PackagePath>PerpetuumSoft.Controls\Themes\Generic.xaml</PackagePath>
+      <Modified>2013-07-03T05:44:57.305</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\My Documents\Visual Studio 2012 Learn\Metro MvvM\Metro MvvM\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T15:12:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\My Documents\Visual Studio 2012 Learn\Metro MvvM\Metro MvvM\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T15:12:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\My Documents\Visual Studio 2012 Learn\Metro MvvM\Metro MvvM\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T15:12:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\My Documents\Visual Studio 2012 Learn\Metro MvvM\Metro MvvM\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T15:12:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\My Documents\Visual Studio 2012 Learn\Metro MvvM\Metro MvvM\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2013-06-27T14:37:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\My Documents\Visual Studio 2012 Learn\Metro MvvM\Metro MvvM\bin\Debug\BlankPage1.xaml">
+      <PackagePath>BlankPage1.xaml</PackagePath>
+      <Modified>2013-08-30T08:15:48.233</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\My Documents\Visual Studio 2012 Learn\Metro MvvM\Metro MvvM\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2013-08-30T06:42:05.863</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\My Documents\Visual Studio 2012 Learn\Metro MvvM\Metro MvvM\bin\Debug\Views\MainPage.xaml">
+      <PackagePath>Views\MainPage.xaml</PackagePath>
+      <Modified>2013-07-06T11:29:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\My Documents\Visual Studio 2012 Learn\Metro MvvM\Metro MvvM\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2013-07-03T20:45:32.000</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
